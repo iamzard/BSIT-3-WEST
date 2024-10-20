@@ -1,2 +1,7 @@
 Joerg_Yangao
+<<<<<<< HEAD
 gwapo ko
+=======
+gwapo ko
+ambot lang kung tinuod ba
+>>>>>>> branch-2
